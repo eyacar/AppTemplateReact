@@ -1,0 +1,36 @@
+$width:40%;
+@mixin general {
+    text-align: center;
+    margin: 0 auto;
+  }
+form{
+@include general();    
+width: $width;
+}
+table{
+    @include general();
+    width: $width;
+    th{
+        line-height: 30px;
+        border: 1px solid black;
+        background-color: grey;;
+    }
+    td{border: 1px solid black;}
+}
+#home{
+    width: 100%;
+    @include general();
+}
+#productos2{display: none;}
+
+
+@media (max-width: 570px) {
+   #container{margin-top: 100px;}
+    iframe{width: 300px;}
+    #p{display: none;}
+    #productos2{display: block;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    }
+  }
