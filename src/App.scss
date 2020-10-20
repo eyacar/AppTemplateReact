@@ -92,9 +92,11 @@ footer{p{display: none;}}
   display: flex;
   justify-content: space-evenly;
   width: 90%
-  img{width: 10%;height: 40px;}}
-  span{width: 40%;margin-top: 2%;}
+  img{width: 10%;}
+  span{width: 40%;margin-top: 2%;}}
 }
+  .MuiTypography-h6-75 {
+    height: 40px;}
 }
 .clickeado{left: 0;}
 @media (min-width: 570px) {
