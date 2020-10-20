@@ -83,7 +83,7 @@ margin-bottom: 0;;
 footer{p{display: none;}}
 .MuiAppBar-root-4 {
   height: 55px;}
-#appbar{
+  #appbar{
   position: fixed;
   top: 0;
   width: 100%;
@@ -92,7 +92,7 @@ footer{p{display: none;}}
   display: flex;
   justify-content: space-evenly;
   width: 90%
-  img{width: 10%;}}
+  img{width: 10%;height: 40px;}}
   span{width: 40%;margin-top: 2%;}
 }
 }
