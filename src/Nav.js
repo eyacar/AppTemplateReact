@@ -55,7 +55,7 @@ return(
             </IconButton>
             <Typography variant="h6" className={classes.title}>
             <img src={logo} alt="logo"/>
-             <span>Winery</span>
+             Winery
             </Typography>
           </Toolbar>
         </AppBar>
