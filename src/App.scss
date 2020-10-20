@@ -80,6 +80,8 @@ margin-bottom: 0;;
     }
   }
 footer{p{display: none;}}
+.MuiAppBar-root-4 {
+  height: 55px;}
 #appbar{
   position: fixed;
   top: 0;
@@ -89,7 +91,7 @@ footer{p{display: none;}}
   display: flex;
   justify-content: space-evenly;
   img{width: 10%;}}
-  span{margin-top: 2%;}
+  span{width: 15%;margin-top: 2%;}
 }
 }
 .clickeado{left: 0;}
