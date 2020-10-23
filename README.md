@@ -3,7 +3,7 @@
 
 If you want to use this template project first of all you must to install in your computer Node.js (with npm); then you need to install all the frameworks that you are going to use, like for de routing i used 'react router dom' (https://reactrouter.com/web/guides/quick-start).   
 
-**When you done thi you can run the proyect from your terminal with the command:
+**When you done thi you can run the proyect from your terminal with the command:**
 
 ### `npm start`
 
@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-**Other common commands useful for a react app:
+**Other common commands useful for a react app:**
 
 ### `npm test`
 
