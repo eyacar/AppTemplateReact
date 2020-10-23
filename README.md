@@ -34,8 +34,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-##Preview
+## Preview
 
 You can see this app deployed on https://app-template-reactjs.herokuapp.com
 
-**Note: I used heroku for the deployment and for the hosting. I highly recommend it **
+**Note: I used heroku for the deployment and for the hosting. I highly recommend it**
